@@ -1,0 +1,11 @@
+C:\Users\jslucas\source\repos\exam2review\bin\Debug\netcoreapp3.1\exam2review.exe
+C:\Users\jslucas\source\repos\exam2review\bin\Debug\netcoreapp3.1\exam2review.deps.json
+C:\Users\jslucas\source\repos\exam2review\bin\Debug\netcoreapp3.1\exam2review.runtimeconfig.json
+C:\Users\jslucas\source\repos\exam2review\bin\Debug\netcoreapp3.1\exam2review.runtimeconfig.dev.json
+C:\Users\jslucas\source\repos\exam2review\bin\Debug\netcoreapp3.1\exam2review.dll
+C:\Users\jslucas\source\repos\exam2review\bin\Debug\netcoreapp3.1\exam2review.pdb
+C:\Users\jslucas\source\repos\exam2review\obj\Debug\netcoreapp3.1\exam2review.csprojAssemblyReference.cache
+C:\Users\jslucas\source\repos\exam2review\obj\Debug\netcoreapp3.1\exam2review.AssemblyInfoInputs.cache
+C:\Users\jslucas\source\repos\exam2review\obj\Debug\netcoreapp3.1\exam2review.AssemblyInfo.cs
+C:\Users\jslucas\source\repos\exam2review\obj\Debug\netcoreapp3.1\exam2review.dll
+C:\Users\jslucas\source\repos\exam2review\obj\Debug\netcoreapp3.1\exam2review.pdb
